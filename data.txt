@@ -1,0 +1,15 @@
+Tiene pelo Mamífero
+Da leche Mamífero
+Tiene plumas Ave
+Puede volar Pone huevos Ave
+Come carne Mamífero Carnívoro
+Dientes caninos Gira los ojos hacia adelante Carnívoro
+Rumia Mamífero Artiodáctilo
+Tiene pezuñas Mamífero Artiodáctilo
+Color amarillo-marrón Tiene manchas oscuras Carnívoro Leopardo de las nieves
+Color amarillo-marrón Tiene rayas negras Carnívoro Tigre
+Patas y cuello largos Tiene manchas amarillo-marrón y oscuras Artiodáctilo Jirafa
+Tiene rayas blancas y negras Artiodáctilo Cebra
+No puede volar Piernas y cuello largos Blanco y negro Ave Avestruz
+No puede volar Buen nadador Blanco y negro Ave Pingüino
+Buen volador Ave Albatros
